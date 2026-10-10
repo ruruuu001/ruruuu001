@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="README.md" alt="banner"
+  <img src="assets/banner.svg" alt="banner"
 </p>
   
 <img src="about-header.svg" alt="About Me" width="100%"/>
