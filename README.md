@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner de perfil"
+  <img src="banner.png" alt="banner de perfil"
 </p>
   
 <img src="about-header.svg" alt="About Me" width="100%"/>
